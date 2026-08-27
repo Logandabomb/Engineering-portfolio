@@ -9,8 +9,8 @@
 
 ### Questions I Investigated
 
-- 
-- 
+- I investigated the benefits of Recycling, It keeps useful products out of landfills.
+- Recycling is re-using products that would've been thrown away and using them for something new.
 - 
 
 ### Research Findings
