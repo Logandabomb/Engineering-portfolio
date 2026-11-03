@@ -1,6 +1,6 @@
-#Basement Research
+## Basement Research
 We measured the whole basement and mapped it all out
-#Pros
+# Pros
 Good Ventilation
 Plastic already down there
 Lots of space
@@ -8,7 +8,7 @@ Power in each room
 good lighting
 wide enough door
 not much safety hazards
-#Cons
+# Cons
 Confined space
 distance from class
 bunch of junk down there
